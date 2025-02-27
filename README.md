@@ -1,2 +1,2 @@
 # websayfam
-küçük bir web sayfası hazırladım
+küçük bir web sayfası hazırladım.
